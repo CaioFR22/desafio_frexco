@@ -10,8 +10,8 @@ warnings.filterwarnings('ignore')
 
 
 ### Subindo inicialmente um dataframe para ser modificado e outro para se manter estável
-data = pd.read_excel('C:/Users/caio/Downloads/Dados.xlsx')
-data1 = pd.read_excel('C:/Users/caio/Downloads/Dados.xlsx')
+data = pd.read_excel('./Dados.xlsx')
+data1 = pd.read_excel('./Dados.xlsx')
 
 
 
